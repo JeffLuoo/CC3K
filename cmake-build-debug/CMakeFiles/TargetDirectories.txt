@@ -1,0 +1,3 @@
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/cmake-build-debug/CMakeFiles/CC3K_Project.dir

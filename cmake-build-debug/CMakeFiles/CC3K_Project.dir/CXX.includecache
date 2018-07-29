@@ -1,0 +1,200 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/BaseObject.cpp
+BaseObject.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/BaseObject.h
+
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/BaseObject.h
+string
+-
+iostream
+-
+
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Cell.cpp
+Cell.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Cell.h
+GameObject.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/GameObject.h
+
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Cell.h
+BaseObject.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/BaseObject.h
+
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Chamber.cpp
+Chamber.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Chamber.h
+
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Chamber.h
+BaseObject.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/BaseObject.h
+vector
+-
+Cell.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Cell.h
+
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Character.cpp
+Character.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Character.h
+
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Character.h
+GameObject.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/GameObject.h
+
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Display.cpp
+iostream
+-
+Display.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Display.h
+
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Display.h
+string
+-
+vector
+-
+Hero.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Hero.h
+Floor.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Floor.h
+
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Enemy.cpp
+Enemy.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Enemy.h
+Helpers.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Helpers.h
+
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Enemy.h
+vector
+-
+Character.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Character.h
+Hero.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Hero.h
+Treasure.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Treasure.h
+Floor.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Floor.h
+
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Floor.cpp
+Floor.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Floor.h
+Treasure.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Treasure.h
+Helpers.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Helpers.h
+algorithm
+-
+
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Floor.h
+string
+-
+iostream
+-
+vector
+-
+Cell.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Cell.h
+Character.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Character.h
+Chamber.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Chamber.h
+Hero.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Hero.h
+
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/GameObject.cpp
+GameObject.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/GameObject.h
+
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/GameObject.h
+string
+-
+BaseObject.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/BaseObject.h
+
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Helpers.cpp
+ctime
+-
+iostream
+-
+Helpers.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Helpers.h
+
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Helpers.h
+vector
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/vector
+fstream
+-
+cmath
+-
+
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Hero.cpp
+Hero.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Hero.h
+Floor.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Floor.h
+Enemy.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Enemy.h
+Helpers.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Helpers.h
+
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Hero.h
+Character.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Character.h
+potion.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/potion.h
+
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Item.cpp
+Item.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Item.h
+
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Item.h
+GameObject.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/GameObject.h
+string
+-
+iostream
+-
+
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Treasure.cpp
+Treasure.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Treasure.h
+
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Treasure.h
+Item.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Item.h
+Enemy.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Enemy.h
+string
+-
+iostream
+-
+
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/main.cpp
+string
+-
+Hero.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Hero.h
+Display.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Display.h
+iostream
+-
+time.h
+-
+Floor.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Floor.h
+Helpers.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Helpers.h
+
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/potion.cpp
+potion.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/potion.h
+
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/potion.h
+Item.h
+/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Item.h
+

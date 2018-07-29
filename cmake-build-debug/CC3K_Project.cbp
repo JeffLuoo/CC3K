@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CC3K_Project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/luopeijia/Desktop/cc3k\ project/CC3K_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/luopeijia/Desktop/cc3k\ project/CC3K_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/luopeijia/Desktop/cc3k\ project/CC3K_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/luopeijia/Desktop/cc3k\ project/CC3K_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/luopeijia/Desktop/cc3k\ project/CC3K_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/luopeijia/Desktop/cc3k\ project/CC3K_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/luopeijia/Desktop/cc3k\ project/CC3K_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/luopeijia/Desktop/cc3k\ project/CC3K_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/luopeijia/Desktop/cc3k\ project/CC3K_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/luopeijia/Desktop/cc3k\ project/CC3K_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/luopeijia/Desktop/cc3k\ project/CC3K_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/luopeijia/Desktop/cc3k\ project/CC3K_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CC3K_Project">
+				<Option output="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/cmake-build-debug/CC3K_Project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/luopeijia/Desktop/cc3k\ project/CC3K_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 CC3K_Project"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/luopeijia/Desktop/cc3k\ project/CC3K_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/luopeijia/Desktop/cc3k\ project/CC3K_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/luopeijia/Desktop/cc3k\ project/CC3K_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CC3K_Project/fast">
+				<Option output="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/cmake-build-debug/CC3K_Project" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../lib/clang/8.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/luopeijia/Desktop/cc3k\ project/CC3K_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 CC3K_Project/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/luopeijia/Desktop/cc3k\ project/CC3K_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/luopeijia/Desktop/cc3k\ project/CC3K_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/luopeijia/Desktop/cc3k\ project/CC3K_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/1.txt">
+			<Option target="CC3K_Project"/>
+		</Unit>
+		<Unit filename="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/2.txt">
+			<Option target="CC3K_Project"/>
+		</Unit>
+		<Unit filename="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/BaseObject.cpp">
+			<Option target="CC3K_Project"/>
+		</Unit>
+		<Unit filename="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/BaseObject.h">
+			<Option target="CC3K_Project"/>
+		</Unit>
+		<Unit filename="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Cell.cpp">
+			<Option target="CC3K_Project"/>
+		</Unit>
+		<Unit filename="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Cell.h">
+			<Option target="CC3K_Project"/>
+		</Unit>
+		<Unit filename="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Chamber.cpp">
+			<Option target="CC3K_Project"/>
+		</Unit>
+		<Unit filename="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Chamber.h">
+			<Option target="CC3K_Project"/>
+		</Unit>
+		<Unit filename="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Character.cpp">
+			<Option target="CC3K_Project"/>
+		</Unit>
+		<Unit filename="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Character.h">
+			<Option target="CC3K_Project"/>
+		</Unit>
+		<Unit filename="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Display.cpp">
+			<Option target="CC3K_Project"/>
+		</Unit>
+		<Unit filename="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Display.h">
+			<Option target="CC3K_Project"/>
+		</Unit>
+		<Unit filename="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Enemy.cpp">
+			<Option target="CC3K_Project"/>
+		</Unit>
+		<Unit filename="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Enemy.h">
+			<Option target="CC3K_Project"/>
+		</Unit>
+		<Unit filename="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Floor.cpp">
+			<Option target="CC3K_Project"/>
+		</Unit>
+		<Unit filename="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Floor.h">
+			<Option target="CC3K_Project"/>
+		</Unit>
+		<Unit filename="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/GameObject.cpp">
+			<Option target="CC3K_Project"/>
+		</Unit>
+		<Unit filename="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/GameObject.h">
+			<Option target="CC3K_Project"/>
+		</Unit>
+		<Unit filename="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Helpers.cpp">
+			<Option target="CC3K_Project"/>
+		</Unit>
+		<Unit filename="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Helpers.h">
+			<Option target="CC3K_Project"/>
+		</Unit>
+		<Unit filename="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Hero.cpp">
+			<Option target="CC3K_Project"/>
+		</Unit>
+		<Unit filename="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Hero.h">
+			<Option target="CC3K_Project"/>
+		</Unit>
+		<Unit filename="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Item.cpp">
+			<Option target="CC3K_Project"/>
+		</Unit>
+		<Unit filename="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Item.h">
+			<Option target="CC3K_Project"/>
+		</Unit>
+		<Unit filename="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Treasure.cpp">
+			<Option target="CC3K_Project"/>
+		</Unit>
+		<Unit filename="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/Treasure.h">
+			<Option target="CC3K_Project"/>
+		</Unit>
+		<Unit filename="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/main.cpp">
+			<Option target="CC3K_Project"/>
+		</Unit>
+		<Unit filename="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/potion.cpp">
+			<Option target="CC3K_Project"/>
+		</Unit>
+		<Unit filename="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/potion.h">
+			<Option target="CC3K_Project"/>
+		</Unit>
+		<Unit filename="/Users/luopeijia/Desktop/cc3k project/CC3K_Project/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
